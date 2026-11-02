@@ -1,0 +1,2 @@
+Optional directory. To use it, change CONFIG paths to photos/1.png etc.
+By default, this website expects images alongside index.html (not in here).
